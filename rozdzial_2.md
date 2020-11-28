@@ -375,8 +375,6 @@ dostępu do służby publicznej na jednakowych zasadach.
 4.  Tryb udzielania informacji, o których mowa w ust. 1 i 2, określają
     ustawy, a w odniesieniu do Sejmu i Senatu ich regulaminy.
 
-[]{#art62}
-
 
 ### Art. 62.
 

@@ -2,7 +2,6 @@
 
 function process() {
     URL="${1}"
-    FILENAME="${2}"
     SED_SCRIPT_PATH="$(dirname $0)/fix_formatting.sed"
     echo "Processing $URL ..." >&2
     curl "${URL}" 2>/dev/null \

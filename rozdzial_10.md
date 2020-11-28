@@ -100,8 +100,6 @@ dnia przekazania jej Senatowi.
     podpisaniem, Trybunał orzeka w tej sprawie nie później niż w ciągu
     2 miesięcy od dnia złożenia wniosku w Trybunale.
 
-[]{#art225}
-
 
 ### Art. 225.
 
@@ -109,8 +107,6 @@ Jeżeli w ciągu 4 miesięcy od dnia przedłożenia Sejmowi projektu ustawy
 budżetowej nie zostanie ona przedstawiona Prezydentowi
 Rzeczypospolitej do podpisu, Prezydent Rzeczypospolitej może w ciągu
 14 dni zarządzić skrócenie kadencji Sejmu.
-
-[]{#art226}
 
 
 ### Art. 226.

@@ -117,8 +117,6 @@ Przysięga może być złożona z dodaniem zdania \"Tak mi dopomóż Bóg\".
     administracji rządowej działa korpus służby cywilnej.
 2.  Prezes Rady Ministrów jest zwierzchnikiem korpusu służby cywilnej.
 
-[]{#art154}
-
 
 ### Art. 154.
 

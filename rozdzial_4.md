@@ -3,8 +3,6 @@
 # Rozdział IV
 ## SEJM I SENAT
 
-[]{#art95}
-
 
 ### Art. 95.
 
@@ -57,8 +55,6 @@
     na 15 dzień po dniu przeprowadzenia wyborów.
 6.  W razie skrócenia kadencji Sejmu stosuje się odpowiednio przepis
     ust. 1.
-
-[]{#art99}
 
 
 ### Art. 99.
@@ -113,8 +109,6 @@ Nie można być równocześnie posłem i senatorem.
 3.  Inne przypadki zakazu łączenia mandatu poselskiego z funkcjami
     publicznymi oraz zakazu jego sprawowania może określić ustawa.
 
-[]{#art104}
-
 
 ### Art. 104.
 
@@ -132,8 +126,6 @@ Nie można być równocześnie posłem i senatorem.
     Bóg\".
 
 3.  Odmowa złożenia ślubowania oznacza zrzeczenie się mandatu.
-
-[]{#art105}
 
 
 ### Art. 105.
@@ -223,8 +215,6 @@ Posiedzenia Sejmu są jawne. Jeżeli wymaga tego dobro państwa, Sejm
 może bezwzględną większością głosów w obecności co najmniej połowy
 ustawowej liczby posłów, uchwalić tajność obrad.
 
-[]{#art114}
-
 
 ### Art. 114.
 
@@ -254,8 +244,6 @@ ustawowej liczby posłów, uchwalić tajność obrad.
     agresji. Jeżeli Sejm nie może się zebrać na posiedzenie, o stanie
     wojny postanawia Prezydent Rzeczypospolitej.
 
-[]{#art117}
-
 
 ### Art. 117.
 
@@ -264,8 +252,6 @@ określa ratyfikowana umowa międzynarodowa lub ustawa. Zasady pobytu
 obcych wojsk na terytorium Rzeczypospolitej Polskiej i zasady
 przemieszczania się ich przez to terytorium określają ratyfikowane
 umowy międzynarodowe lub ustawy.
-
-[]{#art118}
 
 
 ### Art. 118.
@@ -277,8 +263,6 @@ umowy międzynarodowe lub ustawy.
     postępowania w tej sprawie określa ustawa.
 3.  Wnioskodawcy przedkładając Sejmowi projekt ustawy, przedstawiają
     skutki finansowe jej wykonania.
-
-[]{#art119}
 
 
 ### Art. 119.
@@ -293,8 +277,6 @@ umowy międzynarodowe lub ustawy.
     ustawodawczego w Sejmie do czasu zakończenia drugiego czytania
     projektu.
 
-[]{#art120}
-
 
 ### Art. 120.
 
@@ -302,8 +284,6 @@ Sejm uchwala ustawy zwykłą większością głosów w obecności co najmniej
 połowy ustawowej liczby posłów, chyba że Konstytucja przewiduje inną
 większość. W tym samym trybie Sejm podejmuje uchwały, jeżeli ustawa
 lub uchwała Sejmu nie stanowi inaczej.
-
-[]{#art121}
 
 
 ### Art. 121.
@@ -318,8 +298,6 @@ lub uchwała Sejmu nie stanowi inaczej.
     uchwale Senatu, uważa się za przyjętą, jeżeli Sejm nie odrzuci jej
     bezwzględną większością głosów w obecności co najmniej połowy
     ustawowej liczby posłów.
-
-[]{#art122}
 
 
 ### Art. 122.

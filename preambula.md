@@ -1,7 +1,11 @@
-KONSTYTUCJA
+# KONSTYTUCJA
+
 ## RZECZYPOSPOLITEJ POLSKIEJ
+
 z dnia 2 kwietnia 1997 r.
+
 ## PREAMBUŁA
+
 W trosce o byt i przyszłość naszej Ojczyzny,
 odzyskawszy w 1989 roku możliwość suwerennego i demokratycznego
 stanowienia o Jej losie,

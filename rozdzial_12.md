@@ -3,8 +3,6 @@
 # Rozdział XII
 ## ZMIANA KONSTYTUCJI
 
-[]{#art235}
-
 
 ### Art. 235.
 

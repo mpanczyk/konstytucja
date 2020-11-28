@@ -3,8 +3,6 @@
 # Rozdział III
 ## ŹRÓDŁA PRAWA
 
-[]{#art.87}
-
 
 ### Art. 87.
 
